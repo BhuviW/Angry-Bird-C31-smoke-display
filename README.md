@@ -1,2 +1,2 @@
-# Angry-Bird-C31-smoke-display
-smoke display created
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
